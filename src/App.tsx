@@ -1,10 +1,13 @@
-import React from 'react';
-import './App.css';
-import axios from 'axios';
+import React, { useState, useEffect } from 'react';
+
+import A from './components/A';
 
 function App() {
-  const res = axios.get('https://pokeapi.co/api/v2/pokemon/?limit=151');
-  return <div className="App" />;
+  return (
+    <div className="App">
+      <A></A>
+    </div>
+  );
 }
 
 export default App;
