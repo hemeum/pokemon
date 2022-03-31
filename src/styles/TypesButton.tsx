@@ -1,9 +1,9 @@
 import styled from 'styled-components';
 export const Types = styled.li<{ types: string }>`
-  padding: 4px 8px;
+  padding: 6px 10px;
   border-radius: 8px;
   display: inline-flex;
-  margin-right: 4px;
+  margin-right: 6px;
   background-color: ${(props) =>
     props.types === '노말'
       ? '#ADA594'

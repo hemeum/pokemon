@@ -3,24 +3,26 @@ import { useNavigate } from 'react-router';
 import { Types } from '../../styles/TypesButton';
 
 const PokeInfoWrap = styled.li`
-  width: 21%;
-  height: 160px;
-  border-radius: 16px;
+  width: 26%;
+  height: 200px;
+  border-radius: 28px;
   box-shadow: 0px 8px 16px 6px rgba(180, 180, 180, 0.2);
+  background-color: white;
   display: flex;
   flex-direction: column;
   align-items: center;
-  margin: 40px 0;
+  margin: 40px 1%;
   border: ${(props) => props.theme.borderColors.mainColor};
   cursor: pointer;
 `;
 const PokeNumber = styled.div`
-  margin-bottom: 12px;
+  margin: 21px 0 8px;
 `;
 
 const PokeName = styled.strong`
-  font-size: 18px;
-  margin-bottom: 12px;
+  font-size: 24px;
+  margin-bottom: 18px;
+  font-weight: normal;
 `;
 
 const PokeImage = styled.img`
