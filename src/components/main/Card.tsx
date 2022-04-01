@@ -19,7 +19,7 @@ const PokeNumber = styled.div`
   margin: 21px 0 8px;
 `;
 
-const PokeName = styled.strong`
+const PokeName = styled.h3`
   font-size: 24px;
   margin-bottom: 18px;
   font-weight: normal;
@@ -35,7 +35,7 @@ const Card = ({ pokeList }: any) => {
   return (
     <PokeInfoWrap
       onClick={() => {
-        navigate(`/${pokeList.id}`);
+        navigate(`/detail/${pokeList.id}`, { state: { info: pokeList } });
       }}
     >
       <PokeImage src={pokeList.src} alt={pokeList.name}></PokeImage>
@@ -44,10 +44,10 @@ const Card = ({ pokeList }: any) => {
       </PokeNumber>
       <PokeName>{pokeList.name}</PokeName>
       <ul>
-        {pokeList.types.map((v: string, i: number) => {
+        {pokeList.types.map((type: string, i: number) => {
           return (
-            <Types key={i} types={v}>
-              {v}
+            <Types key={i} types={type}>
+              {type}
             </Types>
           );
         })}

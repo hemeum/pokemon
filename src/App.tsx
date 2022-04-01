@@ -1,7 +1,8 @@
 import Main from './pages/Main';
-import { createGlobalStyle, ThemeProvider } from 'styled-components';
+import styled, { createGlobalStyle, ThemeProvider } from 'styled-components';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Nav from './layouts/Nav';
+import Detail from './pages/Detail';
 
 const GlobalStyle = createGlobalStyle`
   @font-face {
@@ -33,14 +34,21 @@ const GlobalStyle = createGlobalStyle`
   }
 
   img {
-    display:block;
+    vertical-align: bottom;
   }
 `;
 
 const theme = {
   zIndexs: { navZIndex: 100 },
   borderColors: { mainColor: '1px solid rgba(180, 180, 180, 0.15)' },
+  mainColor: '#f6f8fc',
+  navHeight: '80px',
 };
+
+const Wrap = styled.main`
+  width: 100%;
+  background-color: ${(props) => props.theme.mainColor};
+`;
 
 function App() {
   return (
@@ -49,9 +57,12 @@ function App() {
       <BrowserRouter>
         <ThemeProvider theme={theme}>
           <Nav />
-          <Routes>
-            <Route path="/" element={<Main />} />
-          </Routes>
+          <Wrap>
+            <Routes>
+              <Route path="/" element={<Main />} />
+              <Route path="/detail/:id" element={<Detail />} />
+            </Routes>
+          </Wrap>
         </ThemeProvider>
       </BrowserRouter>
     </>
