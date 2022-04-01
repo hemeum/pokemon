@@ -5,6 +5,7 @@
     "types": ["풀", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
     "firstText": "태어났을 때부터 등에\n이상한 씨앗이 심어져 있으며\n몸과 함께 자란다고 한다.",
     "secondText": "태어나서부터 얼마 동안은\n등의 씨앗으로부터 영양을\n공급받아 크게 성장한다.",
     "stats": {
@@ -22,6 +23,7 @@
     "types": ["풀", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
     "firstText": "꽃봉오리가 등에 붙어 있으며\n양분을 흡수해가면\n커다란 꽃이 핀다고 한다.",
     "secondText": "등의 봉오리가 부풀어 오르면\n달콤한 냄새가 감돌기 시작한다.\n큰 꽃이 필 조짐이다.",
     "stats": {
@@ -39,6 +41,7 @@
     "types": ["풀", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "mainSrc": "official-artwork",
     "firstText": "큰 꽃잎을 펼쳐\n햇빛을 받고 있으면\n몸에 힘이 넘쳐흐른다.",
     "secondText": "비가 내린 다음 날은 등의\n꽃향기가 강해진다. 향기에\n이끌려 포켓몬이 모여든다.",
     "stats": {
@@ -56,6 +59,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/4.png",
     "firstText": "꼬리의 불꽃은 파이리의\n생명력의 상징이다.\n건강할 때 왕성하게 불타오른다.",
     "secondText": "태어날 때부터 꼬리의 불꽃이\n타오르고 있다. 불꽃이 꺼지면\n그 생명이 다하고 만다.",
     "stats": {
@@ -73,6 +77,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/5.png",
     "firstText": "꼬리를 휘둘러 상대를\n쓰러트리고 날카로운 발톱으로\n갈기갈기 찢어버린다.",
     "secondText": "불타는 꼬리를 휘두르면\n주위의 온도가 점점\n올라가 상대를 괴롭게 한다.",
     "stats": {
@@ -90,6 +95,7 @@
     "types": ["불꽃", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/6.png",
     "firstText": "입에서 작렬하는 불꽃을\n토해낼 때 꼬리의 끝이\n더욱 붉고 격렬하게 타오른다.",
     "secondText": "지상 1400m까지\n날개를 사용해 날 수 있다.\n고열의 불꽃을 내뿜는다.",
     "stats": {
@@ -107,6 +113,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/7.png",
     "firstText": "등껍질에 숨어 몸을 보호한다.\n상대의 빈틈을 놓치지 않고\n물을 뿜어내어 반격한다.",
     "secondText": "수면에서 물을 분사하여\n먹이를 잡는다. 위험해지면 등껍질에\n손발을 감추고 몸을 지킨다.",
     "stats": {
@@ -124,6 +131,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/8.png",
     "firstText": "딱 하고 머리를 맞을 때\n등껍질로 숨어서 피한다. 하지만\n꼬리가 살짝 삐져나와 있다.",
     "secondText": "만 년의 수명을 가지고 있다고들\n말한다. 치렁치렁한 꼬리는\n장수의 상징으로서 인기가 있다.",
     "stats": {
@@ -141,6 +149,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/9.png",
     "firstText": "무거운 몸으로 상대를\n덮쳐서 기절시킨다.\n위기에 처하면 등껍질에 숨는다.",
     "secondText": "등껍질에 분사구가 있어\n로켓 같은 기세로\n덤벼드는 굉장한 녀석이다.",
     "stats": {
@@ -158,6 +167,7 @@
     "types": ["벌레"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/10.png",
     "firstText": "머리의 더듬이로부터\n강렬한 냄새를 내어\n적을 물리치고 몸을 보호한다.",
     "secondText": "발끝에는 어디든지\n달라붙는 빨판이 있다. 필사적으로\n나무 타기를 해서 나뭇잎을 먹는다.",
     "stats": {
@@ -175,6 +185,7 @@
     "types": ["벌레"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
     "firstText": "강철같이 단단한 껍질로\n부드러운 몸을 보호하고 있다.\n진화할 때까지 가만히 참고 있다.",
     "secondText": "껍질이 단단해지기 전에\n강한 충격을 받으면\n속이 나와버리니 주의.",
     "stats": {
@@ -192,6 +203,7 @@
     "types": ["벌레", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "mainSrc": "official-artwork",
     "firstText": "꽃의 꿀을 매우 좋아한다.\n약간의 꽃가루만으로 꽃밭이\n있는 장소를 찾아낼 수 있다.",
     "secondText": "물을 튕겨내는 가루가\n날개를 보호하고 있다. 비가 오는 날에도\n하늘을 날 수 있다.",
     "stats": {
@@ -209,6 +221,7 @@
     "types": ["벌레", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/13.png",
     "firstText": "숲이나 풀밭에 많이 서식한다.\n머리끝에 5cm 정도의\n작고 날카로운 독침을 지니고 있다.",
     "secondText": "독침이 매우 강력하다.\n눈에 띄는 몸의 색깔은\n상대방을 경계시키기 위해서다.",
     "stats": {
@@ -226,6 +239,7 @@
     "types": ["벌레", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
     "firstText": "스스로는 거의 움직일 수 없지만\n위험할 때는 단단해져서\n몸을 보호하고 있는 것 같다.",
     "secondText": "천적에게 발견되지 않도록\n잎사귀 뒷면이나 가지의 틈새에\n숨어서 진화할 때를 기다린다.",
     "stats": {
@@ -243,6 +257,7 @@
     "types": ["벌레", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
     "firstText": "양손과 엉덩이에 있는 3개의\n독침으로 상대를 찌르고 찌르고\n또 찌르며 공격한다.",
     "secondText": "집단으로 나타나기도 한다.\n맹렬한 스피드로 날아\n엉덩이의 독침으로 마구 찌른다.",
     "stats": {
@@ -260,6 +275,7 @@
     "types": ["노말", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
     "firstText": "숲이나 수풀에 많이 분포해 있다.\n땅에서도 격렬한 날갯짓으로\n모래를 뿌리기도 한다.",
     "secondText": "싸움을 좋아하지 않는 얌전한\n성격이지만 어설프게 건드리면\n강력한 반격을 당하게 된다.",
     "stats": {
@@ -277,6 +293,7 @@
     "types": ["노말", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
     "firstText": "발톱이 발달해 있다.\n먹이인 아라리를 잡아\n100km 떨어져 있는 둥지까지 나른다.",
     "secondText": "넓은 영역을 가지고 있어\n침입한 방해자는\n철저하게 쪼아버린다.",
     "stats": {
@@ -294,6 +311,7 @@
     "types": ["노말", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/18.png",
     "firstText": "먹이를 찾을 때 수면을\n아슬아슬하게 미끄러지듯 날아\n잉어킹 등을 움켜잡는다.",
     "secondText": "아름다운 날개를 펼쳐\n상대를 위협한다.\n마하2로 하늘을 날아다닌다.",
     "stats": {
@@ -311,6 +329,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "mainSrc": "official-artwork",
     "firstText": "먹을 것이 있는 곳이라면\n어디서든 서식한다.\n온종일 먹이를 찾아다닌다.",
     "secondText": "송곳니는 길고 날카롭다.\n평생 자라나기 때문에\n단단한 것을 갉아서 깎는다.",
     "stats": {
@@ -328,6 +347,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "mainSrc": "official-artwork",
     "firstText": "계속 자라는 앞니를 갈아내려고\n딱딱한 것을 갉는 습성이 있다.\n벽돌로 된 벽도 갉아서 부순다.",
     "secondText": "뒷다리에 달린 물갈퀴를\n사용하여 강을 건너 넓은\n범위에서 먹이를 찾아다닌다.",
     "stats": {
@@ -345,6 +365,7 @@
     "types": ["노말", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/21.png",
     "firstText": "자신의 영역을 지키기 위해\n작은 날개를 쳐서\n바쁘게 주위를 날아 맴돈다.",
     "secondText": "풀숲의 벌레 따위를 먹는다.\n날개가 짧기 때문에 항상\n쉴 새 없이 날개 치고 있다.",
     "stats": {
@@ -362,6 +383,7 @@
     "types": ["노말", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/22.png",
     "firstText": "커다란 날개로 넓은 하늘을\n계속 날 수 있다.\n한 번도 내려앉지 않아도 괜찮다.",
     "secondText": "큰 날개로 온종일\n날아다닐 수 있는 체력의 소유자다.\n날카로운 부리로 싸운다.",
     "stats": {
@@ -379,6 +401,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/23.png",
     "firstText": "성장할수록 점점 길어진다.\n밤에는 나뭇가지에\n몸을 돌돌 말고 쉰다.",
     "secondText": "전혀 기척을 느끼지 못하게\n이동한다. 구구와 깨비참의\n알을 통째로 삼켜버린다.",
     "stats": {
@@ -396,6 +419,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/24.png",
     "firstText": "배의 무늬가 무서운 얼굴로\n보인다. 약한 적은 그 무늬만\n보고도 도망치고 만다.",
     "secondText": "가슴을 펴서 위협할 때\n입에서 새는 공기 소리는\n으스스해서 상대를 겁먹게 한다.",
     "stats": {
@@ -413,6 +437,7 @@
     "types": ["전기"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "mainSrc": "official-artwork",
     "firstText": "꼬리를 세우고 주변의\n상황을 살피다 보면 가끔\n꼬리에 번개가 친다.",
     "secondText": "뺨의 양쪽에\n작은 전기 주머니가 있다.\n위기 상황일 때 방전한다.",
     "stats": {
@@ -430,6 +455,7 @@
     "types": ["전기"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "mainSrc": "official-artwork",
     "firstText": "전기가 모이면\n근육이 자극되어 여느 때보다\n공격적이 된다.",
     "secondText": "전기의 충격은 10만 볼트다.\n자신보다 몇 배나 큰 상대를\n일격에 기절시킨다.",
     "stats": {
@@ -447,6 +473,7 @@
     "types": ["땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/27.png",
     "firstText": "지면에 구멍을 파고 산다.\n자신에게 위험이 닥쳐오면\n둥글게 말아서 몸을 보호한다.",
     "secondText": "습기를 싫어해서 건조한 땅에\n깊은 구멍을 파고 생활한다.\n눈 깜짝할 사이에 몸을 둥글게 만다.",
     "stats": {
@@ -464,6 +491,7 @@
     "types": ["땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/28.png",
     "firstText": "굉장한 기세로 지면을 파면\n가시와 발톱이 부러져 버리지만\n다음 날에는 바로 돋아나 있다.",
     "secondText": "등을 구부리면 뾰족뾰족한\n공 같다. 그대로 굴러서\n부딪쳐 오거나 도망간다.",
     "stats": {
@@ -481,6 +509,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/29.png",
     "firstText": "몸은 작지만 독침을\n지니고 있기 때문에 주의가 필요하다.\n암컷의 뿔이 더 작다.",
     "secondText": "몸이 작고 무척 얌전하다.\n습격당하면 작은 독침을\n사용해 싸워서 몸을 지킨다.",
     "stats": {
@@ -498,6 +527,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/30.png",
     "firstText": "암컷으로 성격은 온화하다.\n입에서 내보내는 초음파는\n상대를 혼란시키는 힘이 있다.",
     "secondText": "새끼에게 먹이를 나눠줄 때\n어미가 깨물어 부드럽게 한\n먹이를 토해서 준다.",
     "stats": {
@@ -515,6 +545,7 @@
     "types": ["독", "땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/31.png",
     "firstText": "비늘로 뒤덮인 튼튼한\n몸으로 둥지의 입구를 막아\n상대로부터 새끼들을 지킨다.",
     "secondText": "단단하고 바늘 같은 비늘이\n몸을 뒤덮고 있다.\n흥분하면 바늘이 곤두선다.",
     "stats": {
@@ -532,6 +563,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/32.png",
     "firstText": "풀밭 위로 귀만 내어\n주위의 낌새를 살핀다.\n맹독의 뿔로 몸을 보호한다.",
     "secondText": "귀가 커서 먼 곳의 소리를\n들을 때 날개 치듯 움직인다.\n화나면 독침을 쏜다.",
     "stats": {
@@ -549,6 +581,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/33.png",
     "firstText": "발달한 귀를 세워\n주위의 낌새를 살핀다.\n무슨 일이 생기면 바로 덤벼든다.",
     "secondText": "금방 화를 내며 싸우려 든다.\n게다가 머리의 뿔은 찔리면\n강렬한 독소를 내는 구조이다.",
     "stats": {
@@ -566,6 +599,7 @@
     "types": ["독", "땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/34.png",
     "firstText": "돌처럼 딱딱한 피부와\n길게 뻗은 뿔이 특징이다.\n뿔에는 독이 있으니 주의해야 한다.",
     "secondText": "꼬리의 일격은 전신주를\n마치 성냥개비 다루듯이\n두 동강으로 꺾어 버린다.",
     "stats": {
@@ -583,6 +617,7 @@
     "types": ["페어리"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/35.png",
     "firstText": "보름달 밤에 삐삐가 모여\n춤을 추는 모습을 보면\n행복해진다고 전해진다.",
     "secondText": "등의 날개에 달빛을\n모으면 공중에\n떠오를 수 있다는 듯하다.",
     "stats": {
@@ -600,6 +635,7 @@
     "types": ["페어리"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/36.png",
     "firstText": "1km 전방에 떨어진 바늘 소리도\n분간할 수 있는 우수한 귀를 가지고\n있다. 조용한 산속에 살고 있다.",
     "secondText": "요정의 동료로 좀처럼\n사람 앞에 나타나지 않는다. 기척을\n느끼면 바로 도망가는 듯하다.",
     "stats": {
@@ -617,6 +653,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/37.png",
     "firstText": "태어났을 때는 꼬리가 새하얗고\n하나밖에 없다. 성장하면\n끝이 갈라지며 꼬리 수가 늘어난다.",
     "secondText": "어리지만 6개의 꼬리가\n아름답다. 성장하면\n한층 꼬리 수가 늘어난다.",
     "stats": {
@@ -634,6 +671,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/38.png",
     "firstText": "황금빛으로 빛나는 털과\n9개의 긴 꼬리를 지녔다.\n1000년을 산다고 한다.",
     "secondText": "머리가 좋고 집념이 강하다.\n장난으로 꼬리를 잡으면\n1000년 동안 화를 입는다고 한다.",
     "stats": {
@@ -651,6 +689,7 @@
     "types": ["노말", "페어리"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/39.png",
     "firstText": "동그랗고 커다란 눈동자로\n유인하고 기분 좋은 노래를\n불러 상대방을 잠들게 한다.",
     "secondText": "크게 몸을 부풀려\n노래하는 자장가는 평소보다\n길어서 반드시 잠이 온다.",
     "stats": {
@@ -668,6 +707,7 @@
     "types": ["노말", "페어리"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/40.png",
     "firstText": "2마리가 바싹 붙어 있으면 서로의\n털이 너무 기분 좋아서\n떨어지지 않게 되어버린다.",
     "secondText": "몸에 탄력성이 있어\n화나게 하면 숨을 들이켜서\n점점 몸을 크게 부풀린다.",
     "stats": {
@@ -685,6 +725,7 @@
     "types": ["독", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "mainSrc": "official-artwork",
     "firstText": "입에서 내는 초음파로\n두 눈이 없어도 주위의\n장애물을 탐색할 수 있다.",
     "secondText": "양쪽 눈이 존재하지 않는다.\n입에서 초음파를 내어\n어둠 속을 날아다닌다.",
     "stats": {
@@ -702,6 +743,7 @@
     "types": ["독", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "mainSrc": "official-artwork",
     "firstText": "물리면 끝이다. 죽을 정도로\n피를 빨아들이기 때문에 무거워져서\n날 수 없게 될 때도 있다.",
     "secondText": "한번 피를 빨기 시작하면\n배가 부를 때까지 그만두지 않는다.\n어둠 속을 날며 먹이를 찾는다.",
     "stats": {
@@ -719,6 +761,7 @@
     "types": ["풀", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/43.png",
     "firstText": "낮에는 태양을 피하려고\n차가운 땅속에 들어가 있다.\n달빛을 쬐어 성장한다.",
     "secondText": "별명 걸어 다니는 독초.\n밤이 되면 2개의 뿌리로\n300m나 걷는다고 한다.",
     "stats": {
@@ -736,6 +779,7 @@
     "types": ["풀", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "mainSrc": "official-artwork",
     "firstText": "강렬한 악취가 난다! 그럼에도\n불구하고 1000명에 한 명 정도\n이 냄새를 즐겨 맡는 사람이 있다.",
     "secondText": "입에서 흘러내리는 꿀은\n2km 떨어져 있어도 머리가\n아플 정도로 심한 악취가 난다.",
     "stats": {
@@ -753,6 +797,7 @@
     "types": ["풀", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "mainSrc": "official-artwork",
     "firstText": "꽃잎이 클수록 많은\n꽃가루를 만들어 내지만 머리가\n무거워서 지쳐버린다고 한다.",
     "secondText": "세계에서 제일 큰 꽃잎은\n걸을 때마다 흔들려 대량의\n독 꽃가루를 흩뿌린다.",
     "stats": {
@@ -770,6 +815,7 @@
     "types": ["벌레", "풀"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
     "firstText": "벌레의 등에 돋아나 있는 것은\n동충하초라는 버섯이다.\n성장하면 버섯도 커진다.",
     "secondText": "구멍을 파서 나무뿌리로부터\n영양을 섭취하지만 대부분은\n등에 있는 버섯에게 빼앗긴다.",
     "stats": {
@@ -787,6 +833,7 @@
     "types": ["벌레", "풀"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/47.png",
     "firstText": "몸보다 큰 버섯이\n파라섹트를 조종하고 있다.\n독 포자를 여기저기 뿌린다.",
     "secondText": "등의 버섯이 자랄수록\n흩뿌려지는 버섯포자의\n효과는 강력해진다.",
     "stats": {
@@ -804,6 +851,7 @@
     "types": ["벌레", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
     "firstText": "작은 눈이 많이 모여\n큰 눈을 이루고 있다.\n밤이 되면 불빛을 향해 모여든다.",
     "secondText": "커다란 나무 밑에서 살며\n벌레 따위를 먹고 지내는 듯하다.\n밤에는 빛 주위로 찾아온다.",
     "stats": {
@@ -821,6 +869,7 @@
     "types": ["벌레", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
     "firstText": "흩뿌려진 날개 가루에 닿으면\n몸의 감각이 이상해져서\n똑바로 서 있을 수 없게 된다.",
     "secondText": "날개에 가루가 묻어 있어\n팔락팔락 날개를 칠 때마다\n맹독 가루를 흩뿌린다.",
     "stats": {
@@ -838,6 +887,7 @@
     "types": ["땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/50.png",
     "firstText": "지하 1m 정도를 파고들어 가서\n나무뿌리 등을 씹어 먹고 산다.\n가끔 지상으로 얼굴을 내민다.",
     "secondText": "피부가 매우 얇아서\n빛을 쪼이게 되면 혈액이\n데워져 약해진다.",
     "stats": {
@@ -855,6 +905,7 @@
     "types": ["땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
     "firstText": "땅속을 파고들어 가\n상대가 방심하고 있을 때\n다른 곳에서 공격한다.",
     "secondText": "엄청난 힘의 소유자로\n그 어떤 단단한 땅이라도\n지하 100km까지 파고들어 간다.",
     "stats": {
@@ -872,6 +923,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
     "firstText": "한밤중에 움직이는 습성이 있다.\n반짝반짝 빛나는 것을 발견하면\n그에 못지않게 눈동자가 반짝인다.",
     "secondText": "둥근 물건을 정말 좋아한다.\n밤마다 나가서는 떨어진 동전을\n주워 모아서 돌아온다.",
     "stats": {
@@ -889,6 +941,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/53.png",
     "firstText": "이마의 보석이 빛난다!\n걷는 모습도 우아하고\n왕녀와 같은 화려함이 있다.",
     "secondText": "털의 결이 아름다워 애완용으로\n기르려는 사람이 많지만, 곧잘\n할퀴려 들기 때문에 쉽지 않다.",
     "stats": {
@@ -906,6 +959,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
     "firstText": "항상 두통에 시달리고 있다.\n이 두통이 심해지면\n이상한 힘을 쓰기 시작한다.",
     "secondText": "이상한 힘을 간직하고 있지만\n사용했던 기억이 없으므로\n항상 고개를 갸웃거리고 있다.",
     "stats": {
@@ -923,6 +977,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
     "firstText": "해 질 무렵 강가에 모습을 나타낸다.\n이마가 이상하게 빛날 때\n신통력을 발휘한다고 전해진다.",
     "secondText": "손바닥이 물갈퀴로 되어 있어\n헤엄을 잘 친다. 호수 등에서\n우아한 모습을 볼 수 있다.",
     "stats": {
@@ -940,6 +995,7 @@
     "types": ["격투"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/56.png",
     "firstText": "이유 없이 화내고 날뛰기 시작하면\n동료도 구별하지 못하기 때문에\n가까이 가는 것은 매우 위험하다.",
     "secondText": "나무 위에서 생활하고 있다.\n무리 중 1마리가 화내기 시작하면\n모두 아무 의미도 없이 난동을 부린다.",
     "stats": {
@@ -957,6 +1013,7 @@
     "types": ["격투"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/57.png",
     "firstText": "주위에 아무도 없을 때만은\n화를 내지 않고 있다. 그러나\n그 모습을 보기가 어렵다.",
     "secondText": "항상 맹렬하게 화내고 있어\n도망치고 또 도망쳐도\n끝까지 쫓아온다.",
     "stats": {
@@ -974,6 +1031,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
     "firstText": "사람을 잘 따르는 충실한 성격이다.\n적에게는 짖거나 물며\n쫓아내려고 한다.",
     "secondText": "자신보다 강하고 큰\n상대라도 겁 없이 맞서는\n용감하고 믿음직한 성격이다.",
     "stats": {
@@ -991,6 +1049,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
     "firstText": "옛날부터 많은 사람의\n마음을 사로잡은 아름다운 포켓몬이다.\n날듯이 경쾌하게 달린다.",
     "secondText": "위풍당당한 울음소리는\n위엄이 넘쳐 소리를 들은 상대는\n무의식중에 몸을 움츠리게 된다.",
     "stats": {
@@ -1008,6 +1067,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
     "firstText": "매끄럽고 검은 피부는 얇고\n축축하다. 내장 일부가\n비쳐서 소용돌이 모양으로 보인다.",
     "secondText": "배의 소용돌이 방향은 태어난\n지방에 따라 다른 듯하다.\n걷기보다 헤엄치기를 잘한다.",
     "stats": {
@@ -1025,6 +1085,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/61.png",
     "firstText": "육지에서도 수중에서도 살 수 있다.\n지상에서는 항상 땀을 흘려서\n피부를 미끌미끌하게 하고 있다.",
     "secondText": "두 다리가 발달하여\n지상에서 살 수 있는데도 어째서인지\n수중 생활을 좋아한다.",
     "stats": {
@@ -1042,6 +1103,7 @@
     "types": ["물", "격투"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/62.png",
     "firstText": "강인한 근육을 가지고 있다.\n태평양을 쉬지 않고\n계속 헤엄칠 수 있다.",
     "secondText": "자유형이나 접영을 잘하여\n올림픽 선수도 제치고\n쑥쑥 앞질러 나아간다.",
     "stats": {
@@ -1059,6 +1121,7 @@
     "types": ["에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
     "firstText": "하루에 18시간은 자고 있다.\n자는 동안에도 다양한\n초능력을 사용한다.",
     "secondText": "공격의 낌새를 읽고\n공격당하기 전에 얼른\n순간이동으로 그 장소를 떠난다.",
     "stats": {
@@ -1076,6 +1139,7 @@
     "types": ["에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "mainSrc": "official-artwork",
     "firstText": "초능력을 발휘하면\n강한 알파파를 내어\n정밀 기계를 고장 내 버린다.",
     "secondText": "능력을 사용할 때마다\n몸에서 특수한 알파파를\n발산하여 기계를 교란시킨다.",
     "stats": {
@@ -1093,6 +1157,7 @@
     "types": ["에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "mainSrc": "official-artwork",
     "firstText": "뇌세포는 항상 분열해서\n죽을 때까지 늘어나기 때문에\n모든 것을 기억해 놓을 수 있다.",
     "secondText": "슈퍼컴퓨터보다 빠르게\n계산하는 두뇌를 가졌다.\n지능지수는 약 5000이다.",
     "stats": {
@@ -1110,6 +1175,7 @@
     "types": ["격투"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
     "firstText": "데구리를 수없이 들었다 놨다 하며\n전신의 근육을 단련한다.\n모든 격투기를 사용한다.",
     "secondText": "몸집은 어린아이만 하지만\n온몸이 근육으로 되어 있어서\n어른 100명은 날려 버릴 수 있다.",
     "stats": {
@@ -1127,6 +1193,7 @@
     "types": ["격투"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/67.png",
     "firstText": "엄청나게 강한 육체를 지녔기 때문에\n파워 세이브 벨트를 차서\n힘을 제어하고 있다.",
     "secondText": "한 손으로 덤프트럭을 들어 올린다.\n파워를 살려서 사람 대신\n힘쓰는 일을 돕는 포켓몬이다.",
     "stats": {
@@ -1144,6 +1211,7 @@
     "types": ["격투"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/68.png",
     "firstText": "발달한 4개의 팔은\n2초 동안 1000번의\n펀치를 날릴 수 있다.",
     "secondText": "4개의 팔로 상대방의 손발을\n붙잡아 꼼짝 못하게 만들고\n지평선 멀리까지 던져버린다.",
     "stats": {
@@ -1161,6 +1229,7 @@
     "types": ["풀", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
     "firstText": "홀쭉한 체격이지만\n먹이를 잡을 때의 움직임은\n눈에 보이지 않을 정도로 빠르다.",
     "secondText": "사람 얼굴 같은 봉오리 때문에\n전설의 꽃 만드라고라의 일종이\n아닐까 하는 소문이 돌고 있다.",
     "stats": {
@@ -1178,6 +1247,7 @@
     "types": ["풀", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/70.png",
     "firstText": "잎사귀 부분은 칼날이 되어\n상대를 베어버린다. 입에서는\n무엇이든 녹이는 액체를 뿜어낸다.",
     "secondText": "우선 독가루를 뿌려 상대의\n움직임을 멈추게 하고 나서\n용해액으로 숨통을 끊는다.",
     "stats": {
@@ -1195,6 +1265,7 @@
     "types": ["풀", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
     "firstText": "정글의 안쪽에 우츠보트만\n있는 지대가 있어서\n한 번 가면 두 번 다시 돌아올 수 없다.",
     "secondText": "체내로 거둬들인 것은\n아무리 단단할지라도 용해액으로\n흔적도 없이 녹여버린다.",
     "stats": {
@@ -1212,6 +1283,7 @@
     "types": ["물", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/72.png",
     "firstText": "몸 대부분이 수분이다.\n수정 같은 눈에서\n이상한 빔을 발사한다.",
     "secondText": "바다 얕은 곳을 떠다닌다.\n낚시꾼이 실수로 낚아 올려\n찔리는 일이 많다고 한다.",
     "stats": {
@@ -1229,6 +1301,7 @@
     "types": ["물", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
     "firstText": "80개의 촉수를 자유롭게\n움직인다. 찔리면 독이 퍼져\n극심한 고통을 겪게 된다.",
     "secondText": "촉수는 평소에는 짧고\n먹이를 찌를 때\n길게 늘어나 휘감는다.",
     "stats": {
@@ -1246,6 +1319,7 @@
     "types": ["바위", "땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/74.png",
     "firstText": "초원이나 산에 서식한다.\n돌멩이와 닮은 탓에 알아채지 못하고\n밟거나 발이 걸려 넘어지기도 한다.",
     "secondText": "돌멩이와 구별되지 않는다.\n튼튼한 몸을 동료와\n서로 부딪쳐서 단단함을 겨룬다.",
     "stats": {
@@ -1263,6 +1337,7 @@
     "types": ["바위", "땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/75.png",
     "firstText": "산에서 굴러 떨어질 때\n몸의 여기저기가 부서져도\n신경 쓰지 않는 호쾌한 성격이다.",
     "secondText": "언덕을 굴러서 이동한다.\n방해물은 마구\n짓누르며 나아간다.",
     "stats": {
@@ -1280,6 +1355,7 @@
     "types": ["바위", "땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/76.png",
     "firstText": "산 정상에서 산기슭까지 이어지는\n움푹 패인 홈은 딱구리가 굴러\n다니는 길이므로 주의가 필요하다.",
     "secondText": "암석 같은 단단한 몸은\n다이너마이트로도 상처를\n입힐 수 없다. 1년에 1번 탈피한다.",
     "stats": {
@@ -1297,6 +1373,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/77.png",
     "firstText": "막 태어나서는 겨우 일어설 수 있을\n정도이지만 많이 달리면 하반신이\n단련되어 달리는 속도가 빨라진다.",
     "secondText": "부모의 뒤를 쫓아다니는 동안\n다리가 강인해진다.\n온종일 산과 들을 뛰어다닌다.",
     "stats": {
@@ -1314,6 +1391,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/78.png",
     "firstText": "빠르게 움직이는 물체를 보면\n경주를 하고 싶어져서 맹렬한\n스피드로 쫓아가기 시작한다.",
     "secondText": "달리는 속도는 시속 240km.\n갈기의 불꽃이 세차게 타오르고\n화살처럼 달려나간다.",
     "stats": {
@@ -1331,6 +1409,7 @@
     "types": ["물", "에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/79.png",
     "firstText": "항상 멍하니 있으므로 무슨\n생각을 하고 있는지 알 수 없다.\n꼬리로 먹이를 낚는 것이 특기다.",
     "secondText": "물가에서 멍하니 있다.\n뭔가가 꼬리를 깨물어도\n하루 종일 눈치채지 못한다.",
     "stats": {
@@ -1348,6 +1427,7 @@
     "types": ["물", "에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/80.png",
     "firstText": "붙어 있는 셀러는\n꼬리에서 배어 나오는 맛을\n좋아해서 계속 떨어지지 않는다.",
     "secondText": "야돈이 바다로 먹이를\n잡으러 갔다가 셀러에게\n꼬리를 물려 야도란이 되었다.",
     "stats": {
@@ -1365,6 +1445,7 @@
     "types": ["전기", "강철"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/81.png",
     "firstText": "좌우의 유닛에서\n중력을 차단하는 힘을\n발휘하기에 공중에 뜰 수 있다.",
     "secondText": "공중에 뜬 채로 이동하여\n좌우의 유닛에서\n전기자석파를 방사한다.",
     "stats": {
@@ -1382,6 +1463,7 @@
     "types": ["전기", "강철"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/82.png",
     "firstText": "다수의 코일이 연결되어\n강력한 자기장과\n높은 전압을 방사한다.",
     "secondText": "알 수 없는 전파를 발신하고 있어\n반경 1km 범위는\n기온이 2도 오른다.",
     "stats": {
@@ -1399,6 +1481,7 @@
     "types": ["노말", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/83.png",
     "firstText": "가지고 있는 파 줄기는 소중한\n무기이기도 하며 칼을 휘두르듯\n다양한 것을 자를 수 있다.",
     "secondText": "자신의 둥지를 만들기 위해서\n식물의 줄기 하나를\n항상 들고 걷는다.",
     "stats": {
@@ -1416,6 +1499,7 @@
     "types": ["노말", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "mainSrc": "official-artwork",
     "firstText": "돌연변이로 발견된\n두 개의 머리를 지닌 포켓몬이다.\n시속 100km로 달린다.",
     "secondText": "두 머리에 각각 존재하는 뇌는\n텔레파시 같은 힘으로\n의사를 맞춰나가는 듯하다.",
     "stats": {
@@ -1433,6 +1517,7 @@
     "types": ["노말", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "mainSrc": "official-artwork",
     "firstText": "3개의 머리가 보고 있는 앞에서\n조금이라도 빈틈을 보이면\n부리로 격렬하게 쪼아댄다.",
     "secondText": "좀처럼 발견하기 힘든 진귀한 종이다.\n3개의 머리는 기쁨, 슬픔, 분노의\n감정을 나타낸다.",
     "stats": {
@@ -1450,6 +1535,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/86.png",
     "firstText": "빙산에 사는 포켓몬이다.\n머리의 뾰족하게 돌출된 부분으로\n얼음을 깨고 바다를 헤엄친다.",
     "secondText": "하늘색의 털로 뒤덮인\n피부는 두껍고 튼튼하다.\n영하 40도라도 활동할 수 있다.",
     "stats": {
@@ -1467,6 +1553,7 @@
     "types": ["물", "얼음"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/87.png",
     "firstText": "전신이 새하얀 털로\n뒤덮여 있다. 추위에 강해서\n오히려 추울수록 힘이 넘쳐 난다.",
     "secondText": "몸은 물의 저항이\n적은 유선형이다.\n추워질수록 기운이 난다.",
     "stats": {
@@ -1484,6 +1571,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/88.png",
     "firstText": "달로부터의 X선을 쬔\n오물이 질퍽이로 변화했다.\n더러운 것을 좋아한다.",
     "secondText": "지저분한 곳에 모습을 드러낸다.\n공장에서 내보내는 오물\n폐수를 마시며 살고 있다.",
     "stats": {
@@ -1501,6 +1589,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/89.png",
     "firstText": "진흙이 쌓여 악취가 나는 장소를\n좋아해서 모여들기 때문에\n주변은 더욱 악취가 난다.",
     "secondText": "몸에서 맹독의 체액이\n배어 나오고 있다. 그 액에 스친\n초목은 순식간에 시든다.",
     "stats": {
@@ -1518,6 +1607,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/90.png",
     "firstText": "단단한 껍데기는 어떤 공격도\n튕겨낸다. 껍데기를 벌리고 있을 때\n안쪽을 공격당하는 것에는 약하다.",
     "secondText": "껍데기로 물어 공격하는 것은\n부드러운 안쪽이 드러나므로\n궁지에 몰렸을 때 쓰는 수단이다.",
     "stats": {
@@ -1535,6 +1625,7 @@
     "types": ["물", "얼음"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/91.png",
     "firstText": "조수의 흐름이 격한 바다에\n서식하고 있는 파르셀의\n껍질의 가시는 크고 날카롭다.",
     "secondText": "껍데기가 상당히 단단하여\n네이팜탄으로도 부술 수 없다.\n공격할 때만 연다.",
     "stats": {
@@ -1552,6 +1643,7 @@
     "types": ["고스트", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
     "firstText": "가스로 만들어진 몸은\n어떠한 크기의 상대라도\n둘러싸서 숨을 못 쉬게 한다.",
     "secondText": "가스에서 태어난 생명체다.\n독을 포함한 가스로 된 몸에\n둘러싸이면 누구든지 기절한다.",
     "stats": {
@@ -1569,6 +1661,7 @@
     "types": ["고스트", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/93.png",
     "firstText": "어둠 속에서 아무도 없는데도\n누군가가 보고 있다는 느낌이 들면\n그곳에 고우스트가 있는 것이다.",
     "secondText": "가스로 된 혓바닥으로 핥이게 되면\n영혼을 빼앗겨 버린다.\n어둠에 숨어 먹이를 노린다.",
     "stats": {
@@ -1586,6 +1679,7 @@
     "types": ["고스트", "독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/94.png",
     "firstText": "그림자에 모습을 숨긴다.\n팬텀이 숨어 있는 방은\n온도가 5도 내려간다고 전해진다.",
     "secondText": "한밤중 사람의 그림자에 숨어들어\n조금씩 체온을 뺏는다.\n숨어들면 한기가 멈추지 않는다.",
     "stats": {
@@ -1603,6 +1697,7 @@
     "types": ["바위", "땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
     "firstText": "땅속을 엄청난 기세로\n뚫고 나아가며 먹이를 찾는다. 지나간\n곳은 디그다의 보금자리가 된다.",
     "secondText": "평상시에는 땅속에 살고 있다.\n땅속을 시속 80km로\n파면서 먹이를 찾는다.",
     "stats": {
@@ -1620,6 +1715,7 @@
     "types": ["에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/96.png",
     "firstText": "잠들게 한 뒤 꿈을 먹지만\n나쁜 꿈만 먹고 있으면\n배탈이 날 때도 있는 것 같다.",
     "secondText": "즐거운 꿈을 꾸고 있었는데\n어떤 꿈인지 생각나지 않을 때는\n분명히 슬리프가 꿈을 먹었을 것이다.",
     "stats": {
@@ -1637,6 +1733,7 @@
     "types": ["에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "mainSrc": "official-artwork",
     "firstText": "추 같은 것을 들고 다닌다.\n어린아이에게 최면술을 걸어\n어딘가로 데려가 버린 사건이 있었다.",
     "secondText": "눈앞에서 추를 흔들면\n방금 깨어난 사람도\n3초 후에는 잠들어 버린다.",
     "stats": {
@@ -1654,6 +1751,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/98.png",
     "firstText": "위험이 닥치면 입에서 뿜어내는\n거품으로 전신을 감싸서\n몸을 크게 보이려고 한다.",
     "secondText": "바다 근처에서 발견된다.\n커다란 집게는 뜯겨도\n나중에 다시 자라난다.",
     "stats": {
@@ -1671,6 +1769,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
     "firstText": "단단한 집게는 1만 마력의\n파워를 지녔지만\n너무 커서 움직임이 둔하다.",
     "secondText": "볼품없이 크게 자라난\n집게를 기세 좋게 들고 걷다 보면\n밸런스가 무너져 뒤뚱거리게 된다.",
     "stats": {
@@ -1688,6 +1787,7 @@
     "types": ["전기"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/100.png",
     "firstText": "몬스터볼이 팔리기 시작했을 때와\n같은 시기에 발견되었다.\n뭔가 관계가 있다고 전해진다.",
     "secondText": "발전소 등에서 나타난다.\n몬스터볼과 헷갈려서\n만지고 마비되는 사람이 많다.",
     "stats": {
@@ -1705,6 +1805,7 @@
     "types": ["전기"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/101.png",
     "firstText": "작은 자극에도 반응해서\n폭발한다. 폭탄볼이라 불리며\n두려움의 대상이 되고 있다.",
     "secondText": "넘칠 정도의 전기 에너지를\n체내에 모으고 있기 때문에\n약간의 자극만으로도 폭발한다.",
     "stats": {
@@ -1722,6 +1823,7 @@
     "types": ["풀", "에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/102.png",
     "firstText": "텔레파시로 대화를 하기 때문에\n아라리를 갈라놓으려 해도\n바로 모여들어 6마리가 된다.",
     "secondText": "무언가의 알 같지만\n실은 식물의 씨앗에 가까운\n생물이라는 사실이 드러났다.",
     "stats": {
@@ -1739,6 +1841,7 @@
     "types": ["풀", "에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/103.png",
     "firstText": "3개의 머리는 생각하는 것이\n각각 다르지만 사이가 좋아서\n싸우지 않는 것 같다.",
     "secondText": "걸어 다니는 열대 우림이라고\n불린다. 크게 자란 머리 중 하나가\n땅에 떨어지면 아라리가 된다.",
     "stats": {
@@ -1756,6 +1859,7 @@
     "types": ["땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/104.png",
     "firstText": "죽은 어미의 해골을\n머리에 쓰고 있다. 외로울 때는\n큰 소리로 운다고 한다.",
     "secondText": "죽은 어미의 해골을\n항상 뒤집어쓰고 있어서\n얼굴이 어떻게 생겼는지 모른다.",
     "stats": {
@@ -1773,6 +1877,7 @@
     "types": ["땅"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/105.png",
     "firstText": "몸집도 작으며 원래는\n약했다. 뼈를 쓰기 시작하면서\n성격이 흉포해졌다.",
     "secondText": "뼈는 중요한 무기이다.\n부메랑처럼 던져서\n사냥감을 맞춰 기절시킨다.",
     "stats": {
@@ -1790,6 +1895,7 @@
     "types": ["격투"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/106.png",
     "firstText": "다리를 자유자재로 늘였다 줄였다 한다.\n멀리 떨어져 있을 때도\n상대를 차올릴 수 있다.",
     "secondText": "연속으로 킥을 하는 동안\n양쪽 다리는 점점 길어져서\n도망치려고 하는 상대도 걷어찬다.",
     "stats": {
@@ -1807,6 +1913,7 @@
     "types": ["격투"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
     "firstText": "팔을 비틀며 날리는 펀치는\n콘크리트도 부스러뜨린다.\n3분 싸우면 잠시 쉰다.",
     "secondText": "프로 복서의 혼에 씌었다.\n펀치의 스피드는\n고속열차보다도 빠르다.",
     "stats": {
@@ -1824,6 +1931,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/108.png",
     "firstText": "긴 혀는 끈적끈적한\n침으로 덮여 있다. 어떤 것이든\n달라붙어서 매우 편리하다.",
     "secondText": "혀가 키의 2배나 된다.\n먹이를 잡거나 공격을 할 때면\n마치 손처럼 움직인다.",
     "stats": {
@@ -1841,6 +1949,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
     "firstText": "얇고 풍선 같은 몸에\n맹독 가스가 차있다.\n가까이 오면 역겨운 냄새가 난다.",
     "secondText": "공기보다도 가벼운 가스를\n몸에 모아서 떠 있다. 가스는\n냄새나는 데다가 폭발도 한다.",
     "stats": {
@@ -1858,6 +1967,7 @@
     "types": ["독"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/110.png",
     "firstText": "한쪽이 부풀어 오르면 다른 한쪽은\n오그라드는 쌍둥이 또가스. 항상\n체내의 독가스를 섞고 있다.",
     "secondText": "극히 드물게 돌연변이로\n쌍둥이인 작은 또가스가\n연결된 채로 나오는 때가 있다.",
     "stats": {
@@ -1875,6 +1985,7 @@
     "types": ["땅", "바위"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "mainSrc": "official-artwork",
     "firstText": "머리는 나쁘지만 힘이 세서\n고층 빌딩도 몸통박치기로\n산산조각 낸다.",
     "secondText": "4개의 다리는 짧아서\n잘 굽혀지지 않는다. 단지 한결같이\n돌진할 뿐이다.",
     "stats": {
@@ -1892,6 +2003,7 @@
     "types": ["땅", "바위"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+    "mainSrc": "official-artwork",
     "firstText": "전신을 갑옷 같은 피부로\n보호하고 있다. 2000도의\n마그마 속에서도 살 수 있다.",
     "secondText": "진화하여 뒷다리만으로\n서게 되었다. 뿔에 찔리면\n암석에도 구멍이 뚫리고 만다.",
     "stats": {
@@ -1909,6 +2021,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/113.png",
     "firstText": "행복을 가져다준다고 전해진다.\n상처 입은 사람에게 알을\n나눠주는 상냥한 포켓몬이다.",
     "secondText": "하루에 몇 개의 알을 낳는다.\n그 알은 영양 만점으로\n굉장히 맛있다고 한다.",
     "stats": {
@@ -1926,6 +2039,7 @@
     "types": ["풀"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/114.png",
     "firstText": "수많은 움직이는 덩굴에\n둘러싸여 정체불명이다.\n파란 덩굴은 평생 자란다.",
     "secondText": "움직이는 것에 덩굴을 감는다.\n덩굴은 미묘하게 흔들리기 때문에\n휘감기면 간지럽다.",
     "stats": {
@@ -1943,6 +2057,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/115.png",
     "firstText": "배의 주머니에서 새끼를 키운다.\n안전할 때만 새끼를\n주머니에서 꺼내어 놀게 한다.",
     "secondText": "안전한 장소라면 새끼도\n배의 주머니에서 나와서 논다.\n어미는 그것을 가만히 지켜본다.",
     "stats": {
@@ -1960,6 +2075,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/116.png",
     "firstText": "수면에서 힘차게 먹물을\n발사해서 날고 있는 벌레를\n맞춰서 떨어뜨릴 때가 있다고 한다.",
     "secondText": "산호의 그늘에 거처를 만든다.\n위험을 느끼면 입에서\n새까만 먹물을 내뿜고 도망간다.",
     "stats": {
@@ -1977,6 +2093,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/117.png",
     "firstText": "섣불리 만지려고 하면\n몸 전체에서 돋아나는 가시에\n찔려 기절할 수도 있다.",
     "secondText": "날개와 꼬리를 재빠르게 움직여\n앞을 향한 채 뒤로\n헤엄칠 수 있는 포켓몬이다.",
     "stats": {
@@ -1994,6 +2111,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+    "mainSrc": "official-artwork",
     "firstText": "5노트의 스피드로 헤엄친다.\n몸에 위험을 느끼면\n날카로운 뿔로 반격한다.",
     "secondText": "등, 가슴, 꼬리지느러미가\n우아하게 나부끼기 때문에\n물의 무희라고 불린다.",
     "stats": {
@@ -2011,6 +2129,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+    "mainSrc": "official-artwork",
     "firstText": "가을이 오면 산란을 위해\n힘차게 강물을 거슬러 올라가며\n헤엄치는 모습을 볼 수 있다.",
     "secondText": "머리의 뿔로 강바닥에 있는\n돌을 파내어 둥지를 만든다.\n알을 목숨 걸고 지킨다.",
     "stats": {
@@ -2028,6 +2147,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
     "firstText": "몸의 중심에서 빛나는\n핵이 있는 한 몸이\n찢겨나가도 재생할 수 있다.",
     "secondText": "해변에 많이 나타나며\n밤이 되면 가운데가\n빨갛게 깜박거린다.",
     "stats": {
@@ -2045,6 +2165,7 @@
     "types": ["물", "에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
     "firstText": "코어라고 불리는 중심 부분은\n일곱 빛깔로 빛난다. 이것을\n보석으로 삼는 사람도 있다고 한다.",
     "secondText": "몸의 중심에 있는 빨간\n핵에서 밤하늘을 향해\n알 수 없는 전파를 발신한다.",
     "stats": {
@@ -2062,6 +2183,7 @@
     "types": ["에스퍼", "페어리"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/122.png",
     "firstText": "손가락 끝에서 내는 파동이\n공기를 굳혀서 벽을 만든다.\n격렬한 공격도 튕겨 낸다.",
     "secondText": "사람 속이기를 잘한다.\n팬터마임으로 만든 벽이\n정말로 나타난다고 한다.",
     "stats": {
@@ -2079,6 +2201,7 @@
     "types": ["벌레", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "mainSrc": "official-artwork",
     "firstText": "날카로운 낫으로 먹이를 베고\n숨통을 끊는다. 매우 드물게\n날개를 사용해서 난다.",
     "secondText": "잘 드는 예리한 낫을 써서\n풀숲을 베고 지나간다. 매우\n빠른 움직임에 눈이 따라가지 못한다.",
     "stats": {
@@ -2096,6 +2219,7 @@
     "types": ["얼음", "에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/124.png",
     "firstText": "허리를 흔드는 듯이 걷고 있다.\n방심하면 엉겁결에 따라서\n춤춰버린다고 한다.",
     "secondText": "인간처럼 말을 하지만\n아직 무슨 말을 하는지 알 수 없어\n현재 연구 중이다.",
     "stats": {
@@ -2113,6 +2237,7 @@
     "types": ["전기"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
     "firstText": "몸의 표면에는 전기가\n흐르고 있다. 주변이 어두우면\n전신이 푸르스름하게 빛난다.",
     "secondText": "강한 전기를 좋아하여\n커다란 발전소 같은 곳에\n종종 나타난다.",
     "stats": {
@@ -2130,6 +2255,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
     "firstText": "화산의 분화구 근처에서\n발견되었다. 입에서 불꽃을 뿜어낸다.\n체온은 1200도나 된다.",
     "secondText": "화산의 분화구에서 태어나 자랐다.\n태양과도 같은 불꽃의\n일렁임이 전신을 감싼다.",
     "stats": {
@@ -2147,6 +2273,7 @@
     "types": ["벌레"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/127.png",
     "firstText": "2개의 뿔 사이에 먹이를 끼우고\n조각날 때까지 놓지 않는다. 조각나지\n않으면 저편으로 세게 내던진다.",
     "secondText": "긴 뿔을 휘둘러서\n공격을 해온다. 추울 때는\n숲 깊은 곳에 몸을 숨긴다.",
     "stats": {
@@ -2164,6 +2291,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/128.png",
     "firstText": "3개의 꼬리로 자신을 때려서\n투지가 끓어오르면\n전속력으로 돌진해온다.",
     "secondText": "몸통박치기로 공격해 올 때\n3개의 꼬리로 자신의\n몸을 가차 없이 때린다.",
     "stats": {
@@ -2181,6 +2309,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "mainSrc": "official-artwork",
     "firstText": "힘도 스피드도 거의 없다.\n세상에서 가장 약하고\n한심한 포켓몬이다.",
     "secondText": "아주 먼 옛날에는 좀 더\n강했던 것 같다. 그러나 지금은\n안쓰러울 정도로 약하다.",
     "stats": {
@@ -2198,6 +2327,7 @@
     "types": ["물", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "mainSrc": "official-artwork",
     "firstText": "분쟁이 일어난 마을을\n다 태워버렸다는 기록이\n고문서에 남아 있다.",
     "secondText": "거의 모습을 드러내지 않지만\n한번 날뛰면 커다란 도시가\n괴멸하는 경우도 있다.",
     "stats": {
@@ -2215,6 +2345,7 @@
     "types": ["물", "얼음"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
     "firstText": "부드러운 마음의 소유자다.\n좀처럼 다투지 않아 많이\n잡혔기 때문에 수가 줄었다.",
     "secondText": "사람의 말을 이해하는 높은 지능을\n가지고 있다. 사람을 태우고\n바다를 건너는 것을 좋아한다.",
     "stats": {
@@ -2232,6 +2363,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
     "firstText": "전신의 세포를 재구성해서\n본 것의 모양과 똑 닮게\n변신하는 능력을 가지고 있다.",
     "secondText": "몸의 세포 구성을\n스스로 바꿔서 다른\n생명체로 변신한다.",
     "stats": {
@@ -2249,6 +2381,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "mainSrc": "official-artwork",
     "firstText": "진화할 때 모습과 능력이\n바뀜으로써 혹독한 환경에\n적응하는 희귀한 포켓몬이다.",
     "secondText": "불안정한 유전자 덕분에\n여러 가지 진화 가능성을\n간직하고 있는 특수한 포켓몬.",
     "stats": {
@@ -2266,6 +2399,7 @@
     "types": ["물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
     "firstText": "아름다운 물가를 좋아한다.\n세포가 물의 분자구조와 닮아서\n물에 녹는 것도 가능하다.",
     "secondText": "수중에서의 생활에 적합한\n몸으로 진화했다.\n물에 녹으면 보이지 않게 된다.",
     "stats": {
@@ -2283,6 +2417,7 @@
     "types": ["전기"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/135.png",
     "firstText": "체내에 전기가 모이면\n전신의 털이 모두\n날카롭게 곤두서기 시작한다.",
     "secondText": "공기 중의 마이너스 이온을\n빨아들여 약 10000볼트의\n전기를 내뱉을 수 있다.",
     "stats": {
@@ -2300,6 +2435,7 @@
     "types": ["불꽃"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/136.png",
     "firstText": "체내에 불꽃 주머니를 가지고 있다.\n싸움이 시작되기 직전에는\n체온이 900도까지 올라간다.",
     "secondText": "체내에 불꽃 주머니가 있어\n깊이 숨을 들이킨 후\n1700도의 불을 내뿜는다.",
     "stats": {
@@ -2317,6 +2453,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/137.png",
     "firstText": "연구 끝에 태어난\n인공 포켓몬이다. 기본적인\n동작만 프로그램되어 있다.",
     "secondText": "몸이 프로그램으로 만들어져 있다.\n전자 공간을 자유자재로\n이동할 수 있는 능력을 가졌다.",
     "stats": {
@@ -2334,6 +2471,7 @@
     "types": ["바위", "물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/138.png",
     "firstText": "먼 옛날 바다에서 살고 있던\n고대 포켓몬. 10개의 다리를\n구불거리며 헤엄친다.",
     "secondText": "고대의 화석에서 부활했다.\n껍질 안에 모은 공기로\n수중에서 뜨고 가라앉기를 반복했다.",
     "stats": {
@@ -2351,6 +2489,7 @@
     "types": ["바위", "물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/139.png",
     "firstText": "촉수가 팔다리처럼\n발달해 있다.\n달라붙자마자 문다.",
     "secondText": "한번 휘감으면 절대\n놓지 않는다. 날카로운 이빨로\n먹이를 찢듯이 먹는다.",
     "stats": {
@@ -2368,6 +2507,7 @@
     "types": ["바위", "물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
     "firstText": "3억 년 전에 모래 해변에서\n살고 있었던 것으로 추측된다.\n단단한 껍질이 몸을 보호한다.",
     "secondText": "고대 생물의 화석에서\n재생된 포켓몬.\n단단한 껍데기로 몸을 지키고 있다.",
     "stats": {
@@ -2385,6 +2525,7 @@
     "types": ["바위", "물"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/141.png",
     "firstText": "수중을 이동할 때\n손발을 작게 접고\n등껍질을 구부려 빠르게 헤엄친다.",
     "secondText": "날렵한 몸으로 재빠르게 헤엄친다.\n잡은 먹이는 낫으로 베어\n체액을 빨아들이는 듯하다.",
     "stats": {
@@ -2402,6 +2543,7 @@
     "types": ["바위", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/142.png",
     "firstText": "호박에 남아 있던 공룡의\n유전자에서 부활시켰다.\n높은 소리로 울며 난다.",
     "secondText": "날카로운 목소리로 울부짖으며\n고대의 넓은 하늘을 날아다녔다고\n여겨지는 거칠고 사나운 포켓몬이다.",
     "stats": {
@@ -2419,6 +2561,7 @@
     "types": ["노말"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
     "firstText": "하루에 먹을 것을 400kg\n먹지 않으면 성에 차지 않는다.\n다 먹으면 잠이 들어 버린다.",
     "secondText": "곰팡이가 피어 있거나 상했어도\n괜찮다. 잠만보의 위는\n무엇이든 소화시킬 수 있다.",
     "stats": {
@@ -2436,6 +2579,7 @@
     "types": ["얼음", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/144.png",
     "firstText": "전설의 새포켓몬이다.\n공기 중의 수분을 얼려\n눈보라를 만들어 낼 수 있다.",
     "secondText": "설산에서 추워 죽을 것 같을 때\n눈앞에 나타난다고 하는\n전설의 냉동포켓몬.",
     "stats": {
@@ -2453,6 +2597,7 @@
     "types": ["전기", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/145.png",
     "firstText": "구름 위에서 거대한\n번개를 내리치며 나타난다.\n전설의 새포켓몬이다.",
     "secondText": "번개 구름 안에 있다고\n전해지는 전설의 포켓몬이다.\n번개를 자유로이 조종한다.",
     "stats": {
@@ -2470,6 +2615,7 @@
     "types": ["불꽃", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/146.png",
     "firstText": "오래전부터 불새의 전설로\n알려져 있다. 날갯짓할 때마다\n날개가 눈부시게 불타올라서 아름답다.",
     "secondText": "전설의 새포켓몬 중의 1마리다.\n파이어가 모습을 보이면\n봄이 찾아온다고 전해진다.",
     "stats": {
@@ -2487,6 +2633,7 @@
     "types": ["드래곤"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/147.png",
     "firstText": "목격자가 적기 때문에\n환상의 포켓몬이라고 불리고 있다.\n탈피한 껍질이 발견되고 있다.",
     "secondText": "탈피를 반복하면\n점점 크게 자라게 되는\n생명력 넘치는 포켓몬이다.",
     "stats": {
@@ -2504,6 +2651,7 @@
     "types": ["드래곤"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/148.png",
     "firstText": "수정 같은 구슬에는\n날씨를 자유롭게 조종하는\n능력이 담겨 있는 듯하다.",
     "secondText": "오라에 싸여있는 신성한\n생명체인 듯하다. 날씨를 바꾸는\n힘을 가졌다고 한다.",
     "stats": {
@@ -2521,6 +2669,7 @@
     "types": ["드래곤", "비행"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/149.png",
     "firstText": "커다란 몸집으로 하늘을 난다.\n지구를 약 16시간 만에\n일주한다.",
     "secondText": "넓은 바다의 어딘가에 거처가\n있다고 전해진다. 난파한\n배를 육지까지 이끌어 준다.",
     "stats": {
@@ -2538,6 +2687,7 @@
     "types": ["에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
     "firstText": "한 과학자가 몇 년에 걸쳐\n무서운 유전자의 연구를\n계속한 결과 탄생했다.",
     "secondText": "뮤의 유전자를 재구성해서\n만들어졌다. 포켓몬 중에서 가장\n난폭한 마음을 가지고 있다고 한다.",
     "stats": {
@@ -2555,6 +2705,7 @@
     "types": ["에스퍼"],
     "generation": "1",
     "src": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "mainSrc": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/151.png",
     "firstText": "모든 기술을 사용하기 때문에\n포켓몬의 조상이라고 생각하는\n학자가 많다.",
     "secondText": "유전자에는 모든 포켓몬의\n정보가 담겨 있기 때문에\n모든 기술을 쓸 수 있다고 전해진다.",
     "stats": {

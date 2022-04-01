@@ -3,6 +3,9 @@ export const Types = styled.li<{ types: string }>`
   padding: 6px 10px;
   border-radius: 8px;
   display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  letter-spacing: 2px;
   margin-right: 6px;
   background-color: ${(props) =>
     props.types === '노말'
