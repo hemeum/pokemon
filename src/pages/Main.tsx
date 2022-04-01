@@ -5,7 +5,7 @@ import pokes from '../pokes.json';
 const MainContainer = styled.article`
   max-width: 1140px;
   margin: 0 auto;
-  padding-top: 120px;
+  padding-bottom: ${(props) => props.theme.navHeight};
 `;
 
 const Ul = styled.ul`

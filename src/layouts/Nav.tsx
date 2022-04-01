@@ -8,7 +8,7 @@ const Header = styled.header`
   border-bottom: ${(props) => props.theme.borderColors.mainColor};
   box-shadow: 0 6px 18px rgba(180, 180, 180, 0.3);
   position: fixed;
-  top: 0;
+  bottom: 0;
   z-index: ${(props) => props.theme.zIndexs.navZIndex};
 `;
 
@@ -23,7 +23,7 @@ const NavWrap = styled.div`
 
 const Ul = styled.ul`
   display: flex;
-  gap: 40px;
+  gap: 0 40px;
   font-size: 15px;
 `;
 

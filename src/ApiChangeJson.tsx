@@ -1,7 +1,7 @@
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 
-const A = () => {
+const ApiChangeJson = () => {
   const [firstGenerationAllPokemons, setFirstGenerationAllPokemons] =
     useState<any>([]);
   const [poke1, setPoke1] = useState<string>(
@@ -20,6 +20,7 @@ const A = () => {
           types: [],
           generation: '1',
           src: '',
+          mainSrc: '',
           firstText: '',
           secondText: '',
           stats: {
@@ -79,12 +80,15 @@ const A = () => {
             return test;
           };
 
+          const test = JSON.stringify(res.data.sprites.other);
+
           pokemonsConfig.name = await getKrName();
           pokemonsConfig.firstText = await getText(0);
           pokemonsConfig.secondText = await getText(1);
           pokemonsConfig.id = res.data.id;
           pokemonsConfig.types = await typesKorea();
           pokemonsConfig.src = res.data.sprites.front_default;
+          pokemonsConfig.mainSrc = test.split('"')[27];
           getStats();
 
           return pokemonsConfig;
@@ -96,15 +100,13 @@ const A = () => {
     });
   }, []);
 
-  // console.log(firstGenerationAllPokemons);
-
-  // console.log(
-  //   JSON.stringify(
-  //     firstGenerationAllPokemons.sort((a: any, b: any) => a.id - b.id),
-  //   ),
-  // );
+  console.log(
+    JSON.stringify(
+      firstGenerationAllPokemons.sort((a: any, b: any) => a.id - b.id),
+    ),
+  );
 
   return <div className="App" />;
 };
 
-export default A;
+export default ApiChangeJson;
