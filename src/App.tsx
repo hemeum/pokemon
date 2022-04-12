@@ -2,9 +2,12 @@ import Main from './pages/Main';
 import styled, { createGlobalStyle, ThemeProvider } from 'styled-components';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Nav from './layouts/Nav';
+import Footer from './layouts/Footer';
 import Detail from './pages/Detail';
 
 const GlobalStyle = createGlobalStyle`
+  
+
   @font-face {
       font-family: 'DungGeunMo';
       src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_six@1.2/DungGeunMo.woff') format('woff');
@@ -18,6 +21,11 @@ const GlobalStyle = createGlobalStyle`
     padding:0;
     box-sizing:border-box;
     font-family: 'DungGeunMo';
+  }
+
+ 
+  body::-webkit-scrollbar {
+    display: none;
   }
 
   button {
@@ -43,6 +51,7 @@ const theme = {
   borderColors: { mainColor: '1px solid rgba(180, 180, 180, 0.15)' },
   mainColor: '#f6f8fc',
   navHeight: '80px',
+  footHeihgt: '140px',
 };
 
 const Wrap = styled.main`
@@ -63,6 +72,7 @@ function App() {
               <Route path="/detail/:id" element={<Detail />} />
             </Routes>
           </Wrap>
+          <Footer></Footer>
         </ThemeProvider>
       </BrowserRouter>
     </>
