@@ -37,6 +37,14 @@ const Card = ({ pokeList }: any) => {
       onClick={() => {
         navigate(`/detail/${pokeList.id}`, { state: { info: pokeList } });
       }}
+      onMouseOver={(e) => {
+        e.currentTarget.style.transform = 'scale(1.2)';
+        e.currentTarget.style.zIndex = '99';
+      }}
+      onMouseLeave={(e) => {
+        e.currentTarget.style.transform = 'scale(1)';
+        e.currentTarget.style.zIndex = '0';
+      }}
     >
       <PokeImage src={pokeList.src} alt={pokeList.name}></PokeImage>
       <PokeNumber aria-label={`포켓몬 아이디는 ${pokeList.id}`}>
